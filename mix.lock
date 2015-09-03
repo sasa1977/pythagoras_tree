@@ -1,0 +1,2 @@
+%{"exactor": {:hex, :exactor, "2.0.1"},
+  "workex": {:hex, :workex, "0.7.0"}}
